@@ -6178,11 +6178,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sergi\\source\\repos\\SmartMed.CodeChalenge\\SmartMed.CodeChalenge\\SmartMed.CodeChalenge.csproj",
+      "projectUniqueName": "C:\\repos\\personal\\SmartMedCodeChallenge\\SmartMed.CodeChalenge\\SmartMed.CodeChalenge\\SmartMed.CodeChalenge.csproj",
       "projectName": "SmartMed.CodeChalenge",
-      "projectPath": "C:\\Users\\sergi\\source\\repos\\SmartMed.CodeChalenge\\SmartMed.CodeChalenge\\SmartMed.CodeChalenge.csproj",
+      "projectPath": "C:\\repos\\personal\\SmartMedCodeChallenge\\SmartMed.CodeChalenge\\SmartMed.CodeChalenge\\SmartMed.CodeChalenge.csproj",
       "packagesPath": "C:\\Users\\sergi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sergi\\source\\repos\\SmartMed.CodeChalenge\\SmartMed.CodeChalenge\\obj\\",
+      "outputPath": "C:\\repos\\personal\\SmartMedCodeChallenge\\SmartMed.CodeChalenge\\SmartMed.CodeChalenge\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -6207,11 +6207,11 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\sergi\\source\\repos\\SmartMed.CodeChalenge\\SmartMed.Database\\SmartMed.Database.csproj": {
-              "projectPath": "C:\\Users\\sergi\\source\\repos\\SmartMed.CodeChalenge\\SmartMed.Database\\SmartMed.Database.csproj"
+            "C:\\repos\\personal\\SmartMedCodeChallenge\\SmartMed.CodeChalenge\\SmartMed.Database\\SmartMed.Database.csproj": {
+              "projectPath": "C:\\repos\\personal\\SmartMedCodeChallenge\\SmartMed.CodeChalenge\\SmartMed.Database\\SmartMed.Database.csproj"
             },
-            "C:\\Users\\sergi\\source\\repos\\SmartMed.CodeChalenge\\SmartMed.Repository\\SmartMed.Repository.csproj": {
-              "projectPath": "C:\\Users\\sergi\\source\\repos\\SmartMed.CodeChalenge\\SmartMed.Repository\\SmartMed.Repository.csproj"
+            "C:\\repos\\personal\\SmartMedCodeChallenge\\SmartMed.CodeChalenge\\SmartMed.Repository\\SmartMed.Repository.csproj": {
+              "projectPath": "C:\\repos\\personal\\SmartMedCodeChallenge\\SmartMed.CodeChalenge\\SmartMed.Repository\\SmartMed.Repository.csproj"
             }
           }
         }

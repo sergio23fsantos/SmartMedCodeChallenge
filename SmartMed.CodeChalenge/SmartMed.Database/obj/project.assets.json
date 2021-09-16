@@ -5728,11 +5728,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sergi\\source\\repos\\SmartMed.CodeChalenge\\SmartMed.Database\\SmartMed.Database.csproj",
+      "projectUniqueName": "C:\\repos\\personal\\SmartMedCodeChallenge\\SmartMed.CodeChalenge\\SmartMed.Database\\SmartMed.Database.csproj",
       "projectName": "SmartMed.Database",
-      "projectPath": "C:\\Users\\sergi\\source\\repos\\SmartMed.CodeChalenge\\SmartMed.Database\\SmartMed.Database.csproj",
+      "projectPath": "C:\\repos\\personal\\SmartMedCodeChallenge\\SmartMed.CodeChalenge\\SmartMed.Database\\SmartMed.Database.csproj",
       "packagesPath": "C:\\Users\\sergi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sergi\\source\\repos\\SmartMed.CodeChalenge\\SmartMed.Database\\obj\\",
+      "outputPath": "C:\\repos\\personal\\SmartMedCodeChallenge\\SmartMed.CodeChalenge\\SmartMed.Database\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -5757,8 +5757,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\sergi\\source\\repos\\SmartMed.CodeChalenge\\SmartMed.CodeChalenge.Model\\SmartMed.CodeChalenge.Model.csproj": {
-              "projectPath": "C:\\Users\\sergi\\source\\repos\\SmartMed.CodeChalenge\\SmartMed.CodeChalenge.Model\\SmartMed.CodeChalenge.Model.csproj"
+            "C:\\repos\\personal\\SmartMedCodeChallenge\\SmartMed.CodeChalenge\\SmartMed.CodeChalenge.Model\\SmartMed.CodeChalenge.Model.csproj": {
+              "projectPath": "C:\\repos\\personal\\SmartMedCodeChallenge\\SmartMed.CodeChalenge\\SmartMed.CodeChalenge.Model\\SmartMed.CodeChalenge.Model.csproj"
             }
           }
         }
