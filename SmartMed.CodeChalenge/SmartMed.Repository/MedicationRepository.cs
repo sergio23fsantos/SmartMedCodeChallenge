@@ -52,7 +52,7 @@ namespace SmartMed.Repository
 
         public IEnumerable<Medication> Get()
         {
-            return MedicationDbContext.Medications;
+            return MedicationDbContext.Medications.Where(m => m.Active);
         }
 
         public IEnumerable<Medication> Query(Expression<Func<Medication, bool>> query)

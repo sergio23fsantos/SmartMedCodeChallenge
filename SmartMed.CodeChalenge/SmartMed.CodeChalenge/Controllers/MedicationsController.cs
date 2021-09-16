@@ -23,6 +23,7 @@ namespace SmartMed.CodeChalenge.Controllers
         private MedicationRepository MedicationRepository;
         private ILog Log;
 
+
         /// <summary>
         /// Constructor
         /// </summary>
