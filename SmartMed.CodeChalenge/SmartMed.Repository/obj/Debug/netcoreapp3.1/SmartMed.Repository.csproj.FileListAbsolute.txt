@@ -1,0 +1,14 @@
+C:\Users\sergi\source\repos\SmartMed.CodeChalenge\SmartMed.Repository\bin\Debug\netcoreapp3.1\SmartMed.Repository.deps.json
+C:\Users\sergi\source\repos\SmartMed.CodeChalenge\SmartMed.Repository\bin\Debug\netcoreapp3.1\SmartMed.Repository.dll
+C:\Users\sergi\source\repos\SmartMed.CodeChalenge\SmartMed.Repository\bin\Debug\netcoreapp3.1\SmartMed.Repository.pdb
+C:\Users\sergi\source\repos\SmartMed.CodeChalenge\SmartMed.Repository\bin\Debug\netcoreapp3.1\SmartMed.CodeChalenge.Model.dll
+C:\Users\sergi\source\repos\SmartMed.CodeChalenge\SmartMed.Repository\bin\Debug\netcoreapp3.1\SmartMed.Database.dll
+C:\Users\sergi\source\repos\SmartMed.CodeChalenge\SmartMed.Repository\bin\Debug\netcoreapp3.1\SmartMed.CodeChalenge.Model.pdb
+C:\Users\sergi\source\repos\SmartMed.CodeChalenge\SmartMed.Repository\bin\Debug\netcoreapp3.1\SmartMed.Database.pdb
+C:\Users\sergi\source\repos\SmartMed.CodeChalenge\SmartMed.Repository\obj\Debug\netcoreapp3.1\SmartMed.Repository.csproj.AssemblyReference.cache
+C:\Users\sergi\source\repos\SmartMed.CodeChalenge\SmartMed.Repository\obj\Debug\netcoreapp3.1\SmartMed.Repository.AssemblyInfoInputs.cache
+C:\Users\sergi\source\repos\SmartMed.CodeChalenge\SmartMed.Repository\obj\Debug\netcoreapp3.1\SmartMed.Repository.AssemblyInfo.cs
+C:\Users\sergi\source\repos\SmartMed.CodeChalenge\SmartMed.Repository\obj\Debug\netcoreapp3.1\SmartMed.Repository.csproj.CoreCompileInputs.cache
+C:\Users\sergi\source\repos\SmartMed.CodeChalenge\SmartMed.Repository\obj\Debug\netcoreapp3.1\SmartMed.Repository.csproj.CopyComplete
+C:\Users\sergi\source\repos\SmartMed.CodeChalenge\SmartMed.Repository\obj\Debug\netcoreapp3.1\SmartMed.Repository.dll
+C:\Users\sergi\source\repos\SmartMed.CodeChalenge\SmartMed.Repository\obj\Debug\netcoreapp3.1\SmartMed.Repository.pdb

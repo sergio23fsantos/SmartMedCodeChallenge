@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>SmartMed.CodeChalenge</name>
+    </assembly>
+    <members>
+        <member name="M:SmartMed.CodeChalenge.Controllers.MedicationsController.#ctor(SmartMed.Database.MedicationDbContext)">
+            <summary>
+            Constructor
+            </summary>
+            <param name="context"></param>
+        </member>
+        <member name="M:SmartMed.CodeChalenge.Controllers.MedicationsController.GetAll">
+            <summary>
+            Get all medications
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:SmartMed.CodeChalenge.Controllers.MedicationsController.GetActiveMedication">
+            <summary>
+            Get All active medications
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:SmartMed.CodeChalenge.Controllers.MedicationsController.GetExpiredMedication">
+            <summary>
+            Get All expired medication
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:SmartMed.CodeChalenge.Controllers.MedicationsController.Get(System.Guid)">
+            <summary>
+            Get a medication by id
+            </summary>
+            <param name="id">medication guid</param>
+            <returns></returns>
+        </member>
+        <member name="M:SmartMed.CodeChalenge.Controllers.MedicationsController.SearchMedication(System.String)">
+            <summary>
+            Search by name medication
+            </summary>
+            <param name="query"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SmartMed.CodeChalenge.Controllers.MedicationsController.Add(SmartMed.CodeChalenge.Model.Medication)">
+            <summary>
+            Add medication
+            </summary>
+            <param name="medication"></param>
+        </member>
+        <member name="M:SmartMed.CodeChalenge.Controllers.MedicationsController.Delete(System.Guid)">
+            <summary>
+            Set a given medication as inactive
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

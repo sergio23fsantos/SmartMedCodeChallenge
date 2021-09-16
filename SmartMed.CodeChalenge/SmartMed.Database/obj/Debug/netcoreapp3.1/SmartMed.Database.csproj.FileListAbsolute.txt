@@ -1,0 +1,12 @@
+C:\Users\sergi\source\repos\SmartMed.CodeChalenge\SmartMed.Database\bin\Debug\netcoreapp3.1\SmartMed.Database.deps.json
+C:\Users\sergi\source\repos\SmartMed.CodeChalenge\SmartMed.Database\bin\Debug\netcoreapp3.1\SmartMed.Database.dll
+C:\Users\sergi\source\repos\SmartMed.CodeChalenge\SmartMed.Database\bin\Debug\netcoreapp3.1\SmartMed.Database.pdb
+C:\Users\sergi\source\repos\SmartMed.CodeChalenge\SmartMed.Database\bin\Debug\netcoreapp3.1\SmartMed.CodeChalenge.Model.dll
+C:\Users\sergi\source\repos\SmartMed.CodeChalenge\SmartMed.Database\bin\Debug\netcoreapp3.1\SmartMed.CodeChalenge.Model.pdb
+C:\Users\sergi\source\repos\SmartMed.CodeChalenge\SmartMed.Database\obj\Debug\netcoreapp3.1\SmartMed.Database.csproj.AssemblyReference.cache
+C:\Users\sergi\source\repos\SmartMed.CodeChalenge\SmartMed.Database\obj\Debug\netcoreapp3.1\SmartMed.Database.AssemblyInfoInputs.cache
+C:\Users\sergi\source\repos\SmartMed.CodeChalenge\SmartMed.Database\obj\Debug\netcoreapp3.1\SmartMed.Database.AssemblyInfo.cs
+C:\Users\sergi\source\repos\SmartMed.CodeChalenge\SmartMed.Database\obj\Debug\netcoreapp3.1\SmartMed.Database.csproj.CoreCompileInputs.cache
+C:\Users\sergi\source\repos\SmartMed.CodeChalenge\SmartMed.Database\obj\Debug\netcoreapp3.1\SmartMed.Database.csproj.CopyComplete
+C:\Users\sergi\source\repos\SmartMed.CodeChalenge\SmartMed.Database\obj\Debug\netcoreapp3.1\SmartMed.Database.dll
+C:\Users\sergi\source\repos\SmartMed.CodeChalenge\SmartMed.Database\obj\Debug\netcoreapp3.1\SmartMed.Database.pdb
